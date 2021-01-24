@@ -1,5 +1,5 @@
 # JWT-go
-JWT webapp in go
+This repo contains a baseline application in go that allows the signup and signin of new users. The authenticated users received a JWT token that allow them to access the /protected endpoint
 
 
 ## Setup
